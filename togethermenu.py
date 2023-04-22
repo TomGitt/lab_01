@@ -1,1 +1,2 @@
-print ('hello world!together')
+print ('hello world!')
+print ('Victory!')
