@@ -1,2 +1,3 @@
-print ('hello world!')
-print ('Victory!')
+print('hello world!')
+print('Victory!')
+print('corrected')
